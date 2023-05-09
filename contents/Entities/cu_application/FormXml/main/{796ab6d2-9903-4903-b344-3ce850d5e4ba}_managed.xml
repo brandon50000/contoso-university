@@ -2,7 +2,7 @@
 <forms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <systemform>
     <formid>{796ab6d2-9903-4903-b344-3ce850d5e4ba}</formid>
-    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <IntroducedVersion>1.0.0.1</IntroducedVersion>
     <FormPresentation>1</FormPresentation>
     <FormActivationState>1</FormActivationState>
     <form>
