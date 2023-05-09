@@ -10,7 +10,7 @@ on:
 
 jobs:
   deploy:
-    run-on: windows-latest
+    runs-on: windows-latest
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     environment: production
     steps:
